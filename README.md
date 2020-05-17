@@ -1,3 +1,5 @@
 # indexinMovies.c
 
-You should check the txt file.
+You can do some operations for storing the movies.
+
+NOTE THAT: You need to check txt file.
